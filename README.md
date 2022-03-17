@@ -6,7 +6,7 @@
 - My experience spans over a diverse set of tasks like automation through NLP, Document Similarity, NER, Text Classification etc. 
 - I enjoy exploring different areas of Machine Learning and its applications in the real-world.
 - The future plan is to diversify my knowledge and experience by exploring other areas (like Speech, Computer Vision) and applying those expertise to make a difference in the world.
--
+
 <!--
 **uahmad235/uahmad235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
