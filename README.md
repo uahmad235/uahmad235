@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I am Machine Learning Engineer with more than 4 years of professional experience in the domain of Data Science and NLP.
+- I am Machine Learning Engineer with more than 6 years of professional experience in the domain of AI and NLP.
 - I've worked mostly on NLP and Tabular data analysis by drawing insights from both, structured and unstructured, datasets.
 - I also have sound knowledge of CV & Image processing techniques.
 - I have sound familarity with SOTA NLP techniques and models like the Attention-based Transformers and Sequence Modelling for solving real-world problems. 
